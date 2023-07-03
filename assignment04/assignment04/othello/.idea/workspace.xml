@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04166145-13e1-4b9a-90b1-98ee359094e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../BUGS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Notes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../TRICKS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../asm.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bio.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootmain.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../buf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cat.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../console.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counts.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../counts.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../countstest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../cuth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../date.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../defs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dot-bochsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../echo.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../elf.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../entry.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../entryother.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../exec.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fcntl.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../file.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../forktest.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../fs.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../gdbutil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../grep.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../init.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../initcode.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ioapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kbd.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kbd.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kernel.ld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../kill.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lapic.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ln.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../log.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ls.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../memide.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../memlayout.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mkdir.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mkfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mmu.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mp.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mp.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../param.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../picirq.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pipe.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pr.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../printf.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../printpcs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../proc.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../rm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../runoff1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sh.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../show1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sign.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleep1.p" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleeplock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sleeplock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinlock.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinlock.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../spinp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stat.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../stressfs.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../string.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../swtch.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../symlink.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syscall.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../syscall.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sysfile.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../sysproc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../toc.ftr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../toc.hdr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trap.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../trapasm.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../traps.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../uart.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ulib.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../umalloc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../user.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../usertests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../usys.S" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vectors.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../vm.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../wc.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../x86.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../zombie.c" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/othello_gui.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/othello_shared.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/make_submission.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/othello_game.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/random_ai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ai.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="170" column="48" selection-start-line="170" selection-start-column="27" selection-end-line="170" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get</find>
+      <find>compute_utility</find>
+      <find>minimax_min_node</find>
+      <find>board</find>
+      <find>print_board</find>
+      <find>create_initial_board</find>
+      <find>play</find>
+      <find>OthelloGameManager</find>
+      <find>mainloop</find>
+      <find>canvas</find>
+      <find>run_ai</find>
+      <find>get_move</find>
+      <find>players</find>
+      <find>player1</find>
+      <find>get_s</find>
+      <find>get_possible_moves</find>
+      <find>Game Over</find>
+      <find>10</find>
+      <find>print</find>
+      <find>AiTimeoutError</find>
+      <find>tuple</find>
+      <find>select_move_alphabeta</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/random_ai.py" />
+        <option value="$PROJECT_DIR$/othello_game.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/ai.py" />
+        <option value="$PROJECT_DIR$/othello_gui.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="77" />
+    <option name="width" value="1380" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="othello" type="b2602c69:ProjectViewProjectNode" />
+              <item name="othello" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../assignment04" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04166145-13e1-4b9a-90b1-98ee359094e0" name="Default Changelist" comment="" />
+      <created>1557076383986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557076383986</updated>
+      <workItem from="1557076385866" duration="1054000" />
+      <workItem from="1557216443841" duration="1772000" />
+      <workItem from="1557247055988" duration="3661000" />
+      <workItem from="1557345324473" duration="1671000" />
+      <workItem from="1557365187526" duration="173000" />
+      <workItem from="1557401504724" duration="17547000" />
+      <workItem from="1557480159072" duration="12384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38262000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13447703" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.33693305" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32937366" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/make_submission.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="50" column="31" selection-start-line="50" selection-start-column="31" selection-end-line="50" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="748" selection-start-line="748" selection-end-line="749" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/othello_game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/othello_shared.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/othello_gui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="170" column="48" selection-start-line="170" selection-start-column="27" selection-end-line="170" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
